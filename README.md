@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java and DSA .
 - 💞️ I’m looking to collaborate on Project related to DSA. 
 - 📫 How to reach ME?        
+     MY Instagram - @__jay_sanghani
      MY twitter - @JaySanghani08;     
      MY Linkdln - @JaySanghani
 <!---
