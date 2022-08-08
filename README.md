@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaysanghani
-- 👀 I’m interested in Data Structures & Algorithm.
+- 👀 I’m interested in Data Structures & Algorithm and web-devlopment.
 - 🌱 I’m currently learning Java and DSA .
 - 💞️ I’m looking to collaborate on Project related to DSA. 
 - 📫 How to reach ME?        
