@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jaysanghani
 - 👀 I’m interested in Data Structures & Algorithm and web-devlopment.
-- 🌱 I’m currently learning Java and DSA .
-- 💞️ I’m looking to collaborate on Project related to DSA. 
+- 💞️ I’m looking to collaborate on Projects in this feilds.
 - 📫 How to reach ME?        
      MY Instagram - @__jay_sanghani
      MY twitter - @JaySanghani08;     
